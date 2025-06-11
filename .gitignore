@@ -6,3 +6,4 @@ composer.lock
 *.tmp
 .DS_Store
 Thumbs.db
+composer.json
